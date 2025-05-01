@@ -5,6 +5,13 @@ A full-stack personal finance web application built with the MERN stack (MongoDB
 
 ---
 
+## 🌐 Live Demo
+
+You can access the deployed application here:  
+👉 [Personal Finance App](https://personal-finance-app-khaki.vercel.app/)
+
+---
+
 ## 🧪 Features
 
 - User registration and login with JWT
